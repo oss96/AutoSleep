@@ -1,0 +1,10 @@
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\bin\Debug\AutoSleep.exe.config
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\bin\Debug\AutoSleep.exe
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\bin\Debug\AutoSleep.pdb
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.csprojAssemblyReference.cache
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.Form1.resources
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.Properties.Resources.resources
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.csproj.GenerateResource.cache
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.csproj.CoreCompileInputs.cache
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.exe
+C:\Users\ossma\OneDrive\Documents\Projects\AutoSleep\AutoSleep\obj\Debug\AutoSleep.pdb
